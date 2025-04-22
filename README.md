@@ -114,3 +114,7 @@ The project uses TypeScript throughout the stack for maximum type safety:
 # FullStack_Assessment
 A full-stack web app using React, TypeScript, and Node.js with Prisma. Implements user auth with email and password. Follows modular structure with reusable components, React Hook Form, Zod for validation, and React Query for API state. Backend uses Express with robust error handling.
 >>>>>>> 42d8b195463228bf9c03a5332823333c63ccf89a
+>>>>>>> ## 📽️ Project Demonstration
+
+[Click here to view the working video demo](https://drive.google.com/drive/folders/16lk-xCE_SBJB_VKWkshRVS7ZXZAmF5vf?usp=sharing)
+
